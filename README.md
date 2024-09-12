@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanjithsatheesan
-- 👀 I’m interested in data science,internet of things etc.
+- 👀 I’m interested in data science.etc.
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
